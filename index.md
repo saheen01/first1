@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+![coffee1](https://user-images.githubusercontent.com/87203389/125119930-63335680-e10f-11eb-893c-51dcdd47b185.jpg)
+
+Coffee Lover
